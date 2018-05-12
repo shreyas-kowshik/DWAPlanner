@@ -1,0 +1,2 @@
+dwa
+-DCATKIN_DEVEL_PREFIX=/media/shreyas/DATA/AGV/Code/ws_dwa/devel -DCMAKE_INSTALL_PREFIX=/media/shreyas/DATA/AGV/Code/ws_dwa/install -G Unix Makefiles

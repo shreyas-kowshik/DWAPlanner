@@ -1,0 +1,8 @@
+prefix=/media/shreyas/DATA/AGV/Code/ws_dwa/install
+
+Name: dwa
+Description: Description of dwa
+Version: 0.0.0
+Cflags: -I/media/shreyas/DATA/AGV/Code/ws_dwa/install/include
+Libs: -L/media/shreyas/DATA/AGV/Code/ws_dwa/install/lib 
+Requires: 
